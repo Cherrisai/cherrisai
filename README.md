@@ -11,9 +11,9 @@
 <!-- ========== NAME STABLE ========== -->
 <div align="center">
 
-<h1 style="color:#ffffff">Saivignesh</h1>
+<h1 style="color:#ffffff">I"m Saivignesh</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=A78BFA&center=true&vCenter=true&width=500&height=55&lines=BE+Computer+Science+Graduate;ML+Engineer;AI+Innovation+Builder;Real+World+Problem+Solver;Think+.+Build+.+Innovate" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=A78BFA&center=true&vCenter=true&width=500&height=55&lines=BE+Computer+Science+And+Engineering;ML+Engineer;GenAI;Real+World+Problem+Thinker;Think+.+Build+.+Innovate" alt="Roles" />
 
 </div>
 
@@ -160,7 +160,7 @@
 <!-- ========== ROBOT AND HUMAN WORKING — stable giphy ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000010,50:0d0040,100:000010&height=55&text=Human+and+AI+Working+Together&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000010,50:0d0040,100:000010&height=55&text=AI+Human+can+change+world+easier&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <br/>
 
