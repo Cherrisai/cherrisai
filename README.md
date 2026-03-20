@@ -271,7 +271,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting!;Keep+Building+Keep+Growing!;See+you+in+the+next+commit!" alt="Thank you"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>
 </div>
 
 <!-- ========== FOOTER WAVE ========== -->
