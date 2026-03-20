@@ -11,7 +11,7 @@
 <!-- ========== NAME STABLE ========== -->
 <div align="center">
 
-<h1 style="color:#ffffff">I"m Saivignesh</h1>
+<h1 style="color:#ffffff">I'm Saivignesh</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=A78BFA&center=true&vCenter=true&width=500&height=55&lines=BE+Computer+Science+And+Engineering;ML+Engineer;GenAI;Data+Scientist;Real+World+Problem+Thinker;Think+.+Build+.+Innovate" alt="Roles" />
 
