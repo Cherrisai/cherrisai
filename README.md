@@ -195,6 +195,11 @@
 
 </div>
 
+
+
+<div align="center">
+<img src="PASTE_YOUR_COPIED_LINK_HERE" width="380" alt="coding room"/>
+</div>
 <!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
 
