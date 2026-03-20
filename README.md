@@ -1,32 +1,30 @@
 <!-- ========== HI EVERYONE ========== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=500&color=A78BFA&center=true&vCenter=true&width=480&height=65&lines=Hi+Everyone!+👋;Hi+Everyone!+👋;Hi+Everyone!+👋" alt="Hi Everyone" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=500&color=A78BFA&center=true&vCenter=true&width=480&height=65&lines=Hi+Everyone!;Hi+Everyone!;Hi+Everyone!" alt="Hi Everyone" />
 
 </div>
 
-<!-- ========== GALAXY HEADER ========== -->
+<!-- ========== HERO WAVE BANNER ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,30:0d0040,60:1a0066,100:000010&height=220&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- ========== FIXED NAME — STAYS IN PLACE ========== -->
+<!-- ========== NAME STABLE ========== -->
 <div align="center">
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=520&height=80&lines=Saivignesh" alt="Saivignesh" />
-</h1>
+<h1 style="color:#ffffff">Saivignesh</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=A78BFA&center=true&vCenter=true&width=500&height=55&lines=BE+Computer+Science+Graduate;ML+Engineer;Real+World+Problem+Solver;Think+.+Build+.+Innovate" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=A78BFA&center=true&vCenter=true&width=500&height=55&lines=BE+Computer+Science+Graduate;ML+Engineer;AI+Innovation+Builder;Real+World+Problem+Solver;Think+.+Build+.+Innovate" alt="Roles" />
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
-<!-- ========== NIGHT CODER ========== -->
+<!-- ========== NIGHT CODER GIF — stable giphy ========== -->
 <div align="center">
 <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="380" alt="guy coding night"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="guy coding night"/>
 
 <br/><br/>
 
@@ -35,7 +33,7 @@
 <br/>
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
 
 ---
@@ -51,7 +49,7 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 ---
@@ -70,19 +68,19 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
 
-<!-- ========== GALAXY WINDOW — GUY IN ROOM WITH NOTEBOOKS ========== -->
+<!-- ========== AI ROOM WINDOW GIF — stable giphy ========== -->
 <div align="center">
 <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="360" alt="galaxy window coding room"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" alt="coding room night"/>
 
 <br/>
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 ---
@@ -111,7 +109,7 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 ---
@@ -123,7 +121,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,sklearn" height="45"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi" height="45"/>
 
 <br/><br/>
 
@@ -154,19 +152,19 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
 
 ---
 
-<!-- ========== ROBOT AND HUMAN WORKING ========== -->
+<!-- ========== ROBOT AND HUMAN WORKING — stable giphy ========== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000010,50:0d0040,100:000010&height=55&text=Human+and+AI+Working+Together&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a8" width="340" alt="robot human working"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE4NnFxMm50eDVoaWc2dDgzaTVqY2N5ZHgybzFhcGlwMzF6aTVyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="320" alt="robot working"/>
 
 <br/><br/>
 
@@ -174,7 +172,7 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 ---
@@ -194,12 +192,12 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
 
 ---
 
-<!-- ========== SNAKE CONTRIBUTIONS ========== -->
+<!-- ========== SNAKE — run workflow first ========== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000010,50:0d0040,100:000010&height=55&text=My+Contributions&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
@@ -214,19 +212,19 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 ---
 
-<!-- ========== WHAT I BUILD ========== -->
+<!-- ========== WHAT I BUILD — stable giphy ========== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a2a00,50:1a5c00,100:0a2a00&height=55&text=What+I+Build&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9dfe-d1415c539e8d" width="340" alt="AI robot animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU1bThjazlhZGV1bGY0NzgwYndjcTljMmJ1d3dlenJ6OXp0bHZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="AI robot building"/>
 
 <br/><br/>
 
@@ -234,19 +232,19 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
 
 ---
 
-<!-- ========== FUTURE GOALS ========== -->
+<!-- ========== FUTURE GOALS — stable giphy ========== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000028,50:00005a,100:000028&height=55&text=My+Future+Goals&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="300" alt="future robotics AI"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="future robotics AI"/>
 
 <br/><br/>
 
@@ -254,7 +252,7 @@
 
 </div>
 
-<!-- ========== GALAXY COLOUR LINE ========== -->
+<!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 ---
@@ -268,5 +266,5 @@
 <br/>
 </div>
 
-<!-- ========== GALAXY FOOTER WAVE ========== -->
+<!-- ========== FOOTER WAVE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,30:0d0040,60:1a0066,100:000010&height=130&section=footer&text=Keep+Building&fontSize=24&fontColor=a78bfa&animation=fadeIn&fontAlignY=65" width="100%"/>
