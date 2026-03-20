@@ -200,18 +200,13 @@
 <!-- ========== SNAKE — run workflow first ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000010,50:0d0040,100:000010&height=55&text=My+Contributions&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
-
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cherrisai/cherrisai/output/github-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cherrisai/cherrisai/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cherrisai/cherrisai/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/cherrisai/cherrisai/output/github-contribution-contribution-grid-snake.svg" width="100%"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/cherrisai/cherrisai/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
-
 <!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
