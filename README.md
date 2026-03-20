@@ -45,7 +45,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=580&height=140&lines=BE+Computer+Science+graduate+passionate+about+AI;ML+Engineer+building+real+time+solutions;I+find+real+world+problems+and+solve+them+with+AI;I+have+built+real+projects+that+work+in+production;Think+Build+Innovate+is+my+way+of+working;I+love+building+products+that+create+real+impact" alt="About" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=580&height=140&lines=lines=ML+Engineer+who+builds+AI+that+solves+real+problems;Not+just+a+coder+but+a+product+thinker+and+builder;I+have+shipped+real+projects+with+real+world+impact;I+turn+complex+AI+research+into+working+solutions;Driven+by+curiosity+fuelled+by+purpose;I+exist+at+the+intersection+of+AI+and+innovation" alt="About" />
 
 </div>
 
