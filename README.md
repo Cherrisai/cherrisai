@@ -160,7 +160,7 @@
 <!-- ========== ROBOT AND HUMAN WORKING — stable giphy ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000010,50:0d0040,100:000010&height=55&text=AI+And+Humans+Can+Change+World+Much+Easier&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000010,50:0d0040,100:000010&height=55&text=AI+Meets+Human+Potential&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <br/>
 
