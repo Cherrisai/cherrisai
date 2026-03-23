@@ -5,8 +5,6 @@
 
 </div>
 
-<!-- ========== HERO WAVE BANNER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,30:0d0040,60:1a0066,100:000010&height=220&section=header&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ========== NAME STABLE ========== -->
 <div align="center">
